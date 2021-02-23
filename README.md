@@ -9,7 +9,7 @@ In a recent study, 249 mice identified with SCC tumor growth were treated throug
 Using complete data from this study, tables and figures were generated for a technical report and to create a top-level summary of the study results.<br>
 <div align="center"><img src="static/images/scientist.jpg" width="500" height="300"/></div>
 DETAILS<br>
-To begin the analysis, the data was cleaned to remove any mouse ID with duplicate time points. The cleaned data was used for the remaining steps.<br>
+The data was cleaned to remove any mouse ID with duplicate time points and used to complete the following steps.<br>
 
 - A summary statistics table was generated consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.<br>
 
