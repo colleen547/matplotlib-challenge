@@ -1,6 +1,6 @@
 # matplotlib-challenge
 ***The Power of Plots***
-<div style="text-align:center"><img src="static/images/labmouse.jfif" width="1000" height="300"/></div>
+<div style="text-align:center"><img src="static/images/labmouse.jfif" width="800" height="300"/></div>
 BACKGROUND<br>
 Pymaceuticals Inc., is a burgeoning pharmaceutical company based out of San Diego specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
