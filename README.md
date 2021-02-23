@@ -25,6 +25,7 @@ Next, a mouse that was treated with Capomulin was selected and a line plot of tu
 
 - A scatter plot of average tumor volume vs. mouse weight for the Capomulin treatment regimen was generated.<br>
 
-Finally, the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment were calculated. And the linear regression model was plotted on top of the previous scatter plot.<br>
+Finally, the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment were calculated. 
+  - The linear regression model was plotted on top of the previous scatter plot.<br>
 
 Please note the proper use of labeling for each of the plots, including properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
