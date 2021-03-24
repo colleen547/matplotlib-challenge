@@ -15,7 +15,7 @@ The data was cleaned to remove any mouse ID with duplicate time points and used 
 
 Using using both Pandas `DataFrame.plot()` and Matplotlib's `pyplot`, the following were generated:<br>
 - A bar plot to show the number of total mice for each treatment regimen throughout the course of the study.
-- A pie plotto show the distribution of female or male mice in the study.<br>
+- A pie plot to show the distribution of female or male mice in the study.<br>
 
 After the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin were calculated, quartiles and IQR were calculated to quantitatively determine if there were any potential outliers across all four treatment regimens.<br>
 
