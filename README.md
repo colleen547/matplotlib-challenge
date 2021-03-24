@@ -20,7 +20,7 @@ Using using both Pandas `DataFrame.plot()` and Matplotlib's `pyplot`, the follow
 After the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin were calculated, quartiles and IQR were calculated to quantitatively determine if there were any potential outliers across all four treatment regimens.<br>
 
 - Using Matplotlib, a box and whisker plot of the final tumor volume was generated for all four treatment regimens and potential outliers in the plot were highlighed by changing their color and style.<br>
-<div align="center"><img src="static/images/Lab Mouse.jpg" width="500" height="300"/></div>
+<div align="center"><img src="static/images/lab mouse.jpg" width="500" height="300"/></div>
 Next, a mouse that was treated with Capomulin was selected and a line plot of tumor volume vs. timepoint was generated for that mouse.<br>
 
 - A scatter plot of average tumor volume vs. mouse weight for the Capomulin treatment regimen was generated.<br>
