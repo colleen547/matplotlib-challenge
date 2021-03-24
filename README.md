@@ -1,14 +1,14 @@
 # matplotlib-challenge
 ***The Power of Plots***
 
-BACKGROUND<br>
+<b>BACKGROUND</b><br>
 Pymaceuticals Inc., is a burgeoning pharmaceutical company based out of San Diego specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
 In a recent drug study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. 
 
 Using complete data from this study, tables and figures were generated to create a technical report and top-level summary of the study results.<br>
 <div align="center"><img src="static/images/scientist.jpg" width="500" height="300"/></div>
-DETAILS<br>
+<b>DETAILS</b><br>
 The data was cleaned to remove any mouse ID with duplicate time points and used to complete the following steps.<br>
 
 - A summary statistics table was generated consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.<br>
