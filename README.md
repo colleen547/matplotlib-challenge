@@ -29,3 +29,4 @@ Finally, the correlation coefficient and linear regression model between mouse w
   - The linear regression model was plotted on top of the previous scatter plot.<br>
 
 Please note the proper use of labeling for each of the plots, including properties such as: plot titles, axis labels, legend labels, x-axis and y-axis limits, etc.
+
